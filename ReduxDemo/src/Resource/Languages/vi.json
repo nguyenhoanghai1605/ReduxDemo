@@ -1,0 +1,21 @@
+{
+    "fullName": "Họ và tên",
+    "username": "Tài khoản",
+    "password": "Mật khẩu",
+    "loginToTheSystem": "Đăng Nhập Hệ Thống",
+    "appName": "Cà Mau eGov",
+    "login": "Đăng nhập",
+    "forgetThePassword": "Quên mật khẩu?" ,
+    "home": "Màn hình chính",
+    "vic": "Vic",
+    "mail": "Thư điện tử",
+    "videoCall": "Video Call",
+    "news": "Đọc báo",
+    "map": "Bản đồ",
+    "changePassword": "Đổi mật khẩu",
+    "logout": "Đăng xuất",
+    "todoList": "Lịch làm việc",
+    "socioeconomic": "Kinh tế xã hội",
+    "motCuaDienTu": "Một cửa điện tử",
+    "duLieuNongNghiep": "Dữ liệu nông nghiệp"
+}

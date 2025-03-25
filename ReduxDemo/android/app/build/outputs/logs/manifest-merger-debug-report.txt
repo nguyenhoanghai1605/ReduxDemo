@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] F:\Redux\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\7c213e9000d7a9e47d48328acae8e507\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad7028c78f5006f5ead733e1c3e82647\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9f27c94c80db89d5f1b3c9ddb75338fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e416227dddb4590c437bcbcc6c190f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55f4ac0c747ed463ccfbdd8744315a39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\54aaf1c331aa9848b70292fc8d1fa730\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1506984d27857346802beed968d8b4c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2c1fb541b40eacdda6a500124e4c4173\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\533cd267379bfecaf84845e8faa51335\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d24c8564a8f2633a6d1d9a4dce8f255a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\7c226cc8327ecd7cfbe5be492b99b893\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\92fa76995d9c520766046c8270bdabaa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e26385d4766f0788225db6e0e064ef9e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\33bc3c69fa5ec4a93ff933da92a7bf23\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\ca6b98043d8bfe048711db3fde757561\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ba8a05d5e42699feff0e3c3a24dc96f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\28c92fe6b9e5af06bc2abdbc02c1b27f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\94d4092846ee4c79f3c11da5365efdc0\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3954e2285fdfecb9d791f613fb9df653\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5dd50dce8f9ce6b0e3058e3de97a89c\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:2:5-28
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\7c213e9000d7a9e47d48328acae8e507\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\7c213e9000d7a9e47d48328acae8e507\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\7c213e9000d7a9e47d48328acae8e507\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\7c213e9000d7a9e47d48328acae8e507\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\33bc3c69fa5ec4a93ff933da92a7bf23\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\33bc3c69fa5ec4a93ff933da92a7bf23\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\ca6b98043d8bfe048711db3fde757561\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\ca6b98043d8bfe048711db3fde757561\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.helloword.MainActivity
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] F:\Redux\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] F:\Redux\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\7c213e9000d7a9e47d48328acae8e507\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\7c213e9000d7a9e47d48328acae8e507\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad7028c78f5006f5ead733e1c3e82647\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad7028c78f5006f5ead733e1c3e82647\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9f27c94c80db89d5f1b3c9ddb75338fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9f27c94c80db89d5f1b3c9ddb75338fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e416227dddb4590c437bcbcc6c190f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e416227dddb4590c437bcbcc6c190f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55f4ac0c747ed463ccfbdd8744315a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55f4ac0c747ed463ccfbdd8744315a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\54aaf1c331aa9848b70292fc8d1fa730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\54aaf1c331aa9848b70292fc8d1fa730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1506984d27857346802beed968d8b4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1506984d27857346802beed968d8b4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2c1fb541b40eacdda6a500124e4c4173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2c1fb541b40eacdda6a500124e4c4173\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\533cd267379bfecaf84845e8faa51335\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\533cd267379bfecaf84845e8faa51335\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d24c8564a8f2633a6d1d9a4dce8f255a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d24c8564a8f2633a6d1d9a4dce8f255a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\7c226cc8327ecd7cfbe5be492b99b893\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\7c226cc8327ecd7cfbe5be492b99b893\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\92fa76995d9c520766046c8270bdabaa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\92fa76995d9c520766046c8270bdabaa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e26385d4766f0788225db6e0e064ef9e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e26385d4766f0788225db6e0e064ef9e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\33bc3c69fa5ec4a93ff933da92a7bf23\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\33bc3c69fa5ec4a93ff933da92a7bf23\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ba8a05d5e42699feff0e3c3a24dc96f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ba8a05d5e42699feff0e3c3a24dc96f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\28c92fe6b9e5af06bc2abdbc02c1b27f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\28c92fe6b9e5af06bc2abdbc02c1b27f\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\94d4092846ee4c79f3c11da5365efdc0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\94d4092846ee4c79f3c11da5365efdc0\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3954e2285fdfecb9d791f613fb9df653\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3954e2285fdfecb9d791f613fb9df653\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5dd50dce8f9ce6b0e3058e3de97a89c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HangHai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5dd50dce8f9ce6b0e3058e3de97a89c\AndroidManifest.xml:20:5-44
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Redux\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Redux\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\Redux\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

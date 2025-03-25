@@ -1,0 +1,17 @@
+{
+    "fullName": "Full Name",
+    "username": "Username",
+    "password": "Password",
+    "loginToTheSystem": "Login to the System",
+    "appName": "Ca Mau eGov",
+    "login": "Login",
+    "forgetThePassword": "Forget the password?",
+    "home": "Home",
+    "vic": "vic",
+    "mail": "Mail",
+    "videoCall": "Video Call",
+    "news": "News",
+    "map": "Map",
+    "changePassword": "Change password",
+    "logout": "Logout"
+}
